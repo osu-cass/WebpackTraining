@@ -7,6 +7,6 @@ The purpose of this training is to equip you with the knowledge needed to use We
 1. What is Webpack, and why do we need it?
 2. Getting started
 3. Anatomy of a Webpack config file
-4. Typescript
+4. Configuring for Typescript
 5. Code splitting
 6. Vendor bundling
