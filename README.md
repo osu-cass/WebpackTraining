@@ -10,3 +10,17 @@ The purpose of this training is to equip you with the knowledge needed to use We
 4. Configuring for Typescript
 5. Code splitting
 6. Vendor bundling
+
+## Prerequisites
+
+In order to complete this training, you need to make sure that you have NodeJS installed on your system. To verify this, open up a command prompt (or git bash) and running the following commands:
+
+```sh
+# Check the NodeJS version
+node -v # >=10.x.x
+
+# Check the NPM version
+npm -v # >=6.x.x
+```
+
+If either one of those has an issue, visit [this page](https://nodejs.org/en/download/) to install NodeJS in a fashion of your choice.
